@@ -10,3 +10,4 @@ Folder Contains
 - icon Folder
 - ToolForMayaScriptEditor.py ## สคริปต์สำหรับรันในโปรแกรมมายา
 - preview.png # ภาพผลลัพธ์การใช้งานสคริปต์ในโปรแกรมมายา
+- README.md # คำอธิบาย Repository
