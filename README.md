@@ -8,6 +8,6 @@ Folder Contains
 - objectCreatorUi.py
 - objectCreatorUtil.py
 - icon Folder
-- ToolForMayaScriptEditor.py ## สคริปต์สำหรับรันในโปรแกรมมายา
+- ToolForMayaScriptEditor.py # สคริปต์สำหรับรันในโปรแกรมมายา
 - preview.png # ภาพผลลัพธ์การใช้งานสคริปต์ในโปรแกรมมายา
 - README.md # คำอธิบาย Repository
